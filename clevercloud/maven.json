@@ -5,6 +5,5 @@
   },
   "deploy": {
     "jarName": "target/com-0.0.1-SNAPSHOT.jar"
-    "goal": "install  -DskipTests"
   }
 }
